@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Blender, C, C++, CSharp, Python, Java, SpringToolSuite, mySQL, Unity
 - 💞️ I’m looking to collaborate in whatever
 - 📫 How to reach me:
-    Facebook: Seba Salguero
-    Ig: sebitaarias_69
     Twiter: @BArias373
     
 
